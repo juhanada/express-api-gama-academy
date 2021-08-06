@@ -1,0 +1,22 @@
+{
+  "name": "gama-api-express",
+  "version": "1.0.0",
+  "description": "uma API de um sistema de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "news",
+    "noticias"
+  ],
+  "author": "Juile Hanada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
